@@ -43,3 +43,5 @@ Planning on an interactive version, currently you can set your own blendings by 
    The program uses pyramid gaussian blending to stitch the images together.
    
 5. Hell Yeah!
+
+    ![blended_image](Pics/bitter/blend_res.png)
