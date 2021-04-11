@@ -286,3 +286,8 @@ def relpath(filename):
     :return: usable path
     """
     return os.path.join(os.path.dirname(__file__), filename)
+
+
+if __name__ == '__main__':
+    result = blending_example1()[-1]
+    plt.imsave("blend_res", result)
