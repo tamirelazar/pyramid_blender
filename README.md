@@ -12,10 +12,12 @@ Planning on an interactive version, currently you can set your own blendings by 
     ![Avi](https://github.com/tamirelazar/pyramid_blender/blob/main/Pics/bitter/m2small.jpg)
     
 2. Create a Binary Blending Mask
+   
    This is like an instruction file. The black part will be taken from image 1, the white from image 2.
     ![Mask](![Avi](https://github.com/tamirelazar/pyramid_blender/blob/main/Pics/bitter/mask.jpg)
     
 3. Set correct addresses in blending_example1:
+  
   ```python
   def blending_example1():
     """
@@ -37,6 +39,7 @@ Planning on an interactive version, currently you can set your own blendings by 
   ```
   
 4. Run the .py using python3
+   
    The program uses pyramid gaussian blending to stitch the images together.
    
 5. Hell Yeah!
