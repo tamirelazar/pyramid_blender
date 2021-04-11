@@ -1,5 +1,5 @@
 # pyramid_blender
-Uses a binary mask to blend two images.
+Uses a binary mask to blend two images. Course assignment for IMPR course at HUJI.
 
 ### Details
 A simple non-interactive python program for the creation of mashup images.
