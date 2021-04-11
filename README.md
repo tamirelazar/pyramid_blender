@@ -1,5 +1,5 @@
 # pyramid_blender
-Course assignment for IMPR course at HUJI. Uses a binary mask to blend two images.
+Assignment for IMPR course at HUJI. Uses a binary mask to blend two images.
 
 ### Details
 A simple non-interactive python program for the creation of mashup images.
