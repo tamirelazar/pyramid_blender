@@ -6,7 +6,9 @@ A simple non-interactive python program for the creation of mashup images.
 Planning on an interactive version, currently you can set your own blendings by putting your own pictures and mask in Pics directory, and changing addresses in the blending_example functions.
 
 1. Choose 2 Images to Blend:
+
     ![RealAviBitterBody](https://github.com/tamirelazar/pyramid_blender/blob/main/Pics/bitter/m1small.jpg)
+    
     ![Avi](https://github.com/tamirelazar/pyramid_blender/blob/main/Pics/bitter/m2small.jpg)
 2. Create a Binary Blending Mask
    This is like an instruction file. The black part will be taken from image 1, the white from image 2.
